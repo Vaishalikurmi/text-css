@@ -1,0 +1,52 @@
+body {
+    padding: 0% 30%;
+}
+
+h1 {
+    text-shadow: 4px 5px 5px red;
+}
+
+.heading {
+    text-align: left;
+}
+
+.para1 {
+    text-align-last: center;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1rem;
+    white-space: wrap;
+}
+
+.para2 {
+    white-space: pre-line;
+    text-align: justify;
+    line-break: anywhere;
+}
+
+input {
+    margin-top: 1rem;
+    border-color: red;  
+    direction: rtl;
+    text-align: left;
+    text-indent: 10px;
+}
+
+.code span {
+    vertical-align: super;
+   
+}
+
+a {
+    text-decoration-line: underline;
+    -moz-text-decoration-line: underline;
+    text-decoration-color: gray;
+    gray: ;
+    -moz-text-decoration-color: gray;
+    text-decoration-style: dashed;
+    -moz-text-decoration-style: dashed;
+    text-decoration: underline 5px red dashed;
+}
+.contain{
+    word-break: break-all;
+}
